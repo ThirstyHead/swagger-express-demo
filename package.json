@@ -1,0 +1,15 @@
+{
+  "name": "swagger-express",
+  "version": "0.1.0",
+  "description": "Demo of swagger-express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.12.4",
+    "swagger-express-middleware": "~0.4.6"
+  }
+}
